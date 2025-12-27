@@ -7,8 +7,9 @@ Mở terminal (hoặc CMD/PowerShell) và chạy lệnh sau:
 git clone https://github.com/nguyentan10052006-cmyk/Socket-Video-Streaming.git
 cd Socket-Video-Streaming
 
-```. Yêu cầu kỹ thuật
+```
+# 2. Yêu cầu kỹ thuật
 Có thư viện Pillow
 * Nếu chưa có thì trong Terminal lưu trữ các file hãy chạy lệnh:
-`bas```bash
+```bash
 pip install Pillow
